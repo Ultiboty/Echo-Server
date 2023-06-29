@@ -8,12 +8,19 @@ Echo server capble handling multiple clients and with special commands, clients 
 ## Requirements
 The app requires Python 3+ and the following libraries:
 *scapy
+
 *socket
+
 *threading
+
 *tkinter
+
 *time
+
 *select
+
 *random
+
 *string
 
 Additionally, the app requires the following files:
