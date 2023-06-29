@@ -1,7 +1,8 @@
 # Echo-Server
 Echo server capble handling multiple clients and with special commands, clients have gui. In python.
 
-![image](https://github.com/Ultiboty/Echo-Server/assets/99267952/1bb6589b-745a-4594-a316-690322768453)
+![image](https://github.com/Ultiboty/Echo-Server/assets/99267952/c2806a97-c116-4b0c-a351-ff03b4f6c39b)
+
 
 
 ## Requirements
