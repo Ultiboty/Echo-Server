@@ -24,7 +24,9 @@ The app requires Python 3+ and the following libraries:
 *string
 
 Additionally, the app requires the following files:
+
 *client.py: the client-side code
+
 *server.py: the server-side code
 
 ## Usage
